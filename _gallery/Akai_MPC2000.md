@@ -1,0 +1,3 @@
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| Marialena98| Akai_MPC|[Original Size](https://github.com/Marialena98/gr/blob/master/images/Akai_MPC2000.jpg) &nbsp; [Image 160px](https://github.com/Marialena98/gr/blob/master/images/Akai_MPC2000_Thumb.jpg)|Το Akai MPC αποτελεί ίσως το σημαντικότερη συμβολή στην παραγωγή μουσικής. Η ανάγκη για την ηλεκτρονική παραγωγή ντραμς και λούπων, οδήγησε στη δημιουργία ενός midi controller με αμέτρητες δυνατότητες μέσω του οποίου ο καλλιτέχνης θα μπορούσε να δημιουργήσει κάθε είδους ήχο. |[License](https://commons.wikimedia.org/wiki/Commons:Licensing/el)|Wikimedia|Sampler|Akai|
