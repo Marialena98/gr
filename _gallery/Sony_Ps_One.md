@@ -8,7 +8,7 @@ caption: 'Το Sony PS One είναι μια οικιακή κονσόλα βι�
 license_url: 'https://unsplash.com/license'
 license_text: Unsplash Licence
 categories:
-  - hardware
+  - Hardware
 
 tags:
   - Hardware
