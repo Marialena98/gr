@@ -1,17 +1,3 @@
----
-author: Marialena98
-title: Sony_ps_one
-image_url: /images/Sony_Ps_One.jpg
-caption: 'Το Sony PS One είναι μια οικιακή κονσόλα βιντεοπαιχνιδιών, κατασκευασμένη από την Sony Computer Entertainment.
-Αποτελέι την πιο διαδεδωμένη σε πωλήσεις συσκευή κονσόλα εώς το τέλος του έτους 2000, ξεπερνώντας σε πωλήσεις 
-όλες τις άλλες κονσόλες, ακόμα και το φημισμένο Sony Playstation 2.'
-license_url: 'https://unsplash.com/license'
-license_text: Unsplash Licence
-categories:
-  - Hardware
-
-tags:
-  - Hardware
-  - Electronics
-  - Sony
----
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| Marialena98|Sony_Ps_One| [Original Size](https://github.com/Marialena98/gr/blob/master/images/Sony_Ps_One.jpg) &nbsp; [Image 160px](https://github.com/Marialena98/gr/blob/master/images/Sony_Ps_One_Thumb.jpg)|Το Sony PS One είναι μια οικιακή κονσόλα βιντεοπαιχνιδιών, κατασκευασμένη από την Sony Computer Entertainment. Αποτελέι την πιο διαδεδωμένη σε πωλήσεις συσκευή κονσόλα εώς το τέλος του έτους 2000, ξεπερνώντας σε πωλήσεις όλες τις άλλες κονσόλες, ακόμα και το φημισμένο Sony Playstation 2. |[License](https://unsplash.com/license)| Unsplash License|Hardware|Hardware,Electronics,Sony|
