@@ -8,7 +8,7 @@ caption: 'Η κατασκευάστρια Xbox, είναι υπό την επι�
 lisence url: 'https://pixabay.com/el/service/license'
 Lisence Text: Pixabay Licence
 categories:
-  -Console
+  - Console
 tags:
-  -Entairtainment
+  - Entairtainment
 ---
