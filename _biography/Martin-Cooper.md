@@ -9,6 +9,10 @@ categories:
 tags:
   - Martin Cooper
   - The First Shell Phone Call 
+gallery:
+  - image_url: /images/DynaTAC-s.jpg
+    caption: "Το DynaTAC ήταν το πρώτο φορητό τηλέφωνο"
+  - image_url: /images/Martin Cooper.jpg
 ---
 
 {% include_relative Bio-Martin_Cooper.md %}
