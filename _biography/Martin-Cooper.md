@@ -1,7 +1,7 @@
 ---
 author: Marialena98
 title: "Martin Cooper"
-image_url: /images/Martin Cooper.jpg
+image_url: [Image](https://github.com/Marialena98/site/blob/master/images/Martin%20Cooper.jpg)
 caption: "Ο Martin Cooper είναι γνωστός ως ο εφευρέτης του πρώτου κινητού τηλεφώνου χειρός ο οποίος και ηγήθηκε της ομάδας που το ανέπτυξε και το έφερε στην αγορά το 1983."
 categories:
   - biography
