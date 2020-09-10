@@ -11,7 +11,5 @@ tags:
 ---
 
 {% include extras/cs-Zoom.md %}
-
 {% include_relative cs-Zoom.md %}
-
 {% include slides.html %}
